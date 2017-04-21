@@ -1,29 +1,17 @@
 # Lora's Data Management Website
 
-## things below will be deleted later. 
+## Winter Workshop Series
 
+### Previous Workshops
+1. DMPs with the DMPTool
+2. Data Cleaning
+- Tidy Data
+- Open Refine
+3. Data Organization
+4. Data Storage
+- RSTOR
+- HPC
 
+### Upcoming Workshops
+5. Data Sharing
 
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/leligdon/data-modules/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use sy
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-`
